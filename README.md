@@ -1,7 +1,7 @@
 # NIST-800-53-Audit
 <h2>Description</h2>
 Prepared, executed, and reported an audit using NIST SP 800-53. Cybersecurity controls, including interview, document review, and testing with the intent to support compliance audit activities. 
-
+(Not disclosing private information about company's audit results and scores) 
 
 
 
